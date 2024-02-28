@@ -8,3 +8,7 @@ mglearn
 jupyter
 Pyarrow
 IPython
+gensim
+torch
+nltk
+transformers
